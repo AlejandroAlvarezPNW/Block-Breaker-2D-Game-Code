@@ -1,4 +1,9 @@
-﻿using System.Collections;
+/*
+Name: Alejandro Alvarez
+Email: n7alejandroalvarez
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
